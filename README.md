@@ -1,2 +1,2 @@
 # Botway
-A slack bot
+A bot
