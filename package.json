@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/YugantKachroo/Botway/issues"
   },
-  "homepage": "https://github.com/YugantKachroo/Botway#readme"
+  "homepage": "https://github.com/YugantKachroo/Botway#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "ytdl-core": "^2.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
