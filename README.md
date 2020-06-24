@@ -1,2 +1,2 @@
 # Botway
-A bot
+A discord bot
