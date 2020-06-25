@@ -21,6 +21,7 @@
     "@discordjs/opus": "github:discordjs/opus",
     "discord.js": "^12.2.0",
     "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
     "ytdl-core": "^2.1.7"
   },
   "devDependencies": {
